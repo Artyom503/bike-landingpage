@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/static/css/main.a121c308.css",
+    "main.js": "/static/js/main.d7a11468.js",
+    "static/media/Brampton.svg": "/static/media/Brampton.b2c7db9a9090ac2e9c20ecc309791806.svg",
+    "static/media/Universal.svg": "/static/media/Universal.9e3f4000fde3ecee1344925f16ae4c9c.svg",
+    "static/media/others.svg": "/static/media/others.b6e149857bdb575488a4a9516aadf32d.svg",
+    "static/media/person1.png": "/static/media/person1.9d059f32973ac03ff4fc.png",
+    "index.html": "/index.html",
+    "static/media/Vector2.svg": "/static/media/Vector2.516c3bba47d779f1ca776c303df5ac12.svg",
+    "static/media/Vector.svg": "/static/media/Vector.f57d64addf9298d3c15c371d98d15048.svg",
+    "main.a121c308.css.map": "/static/css/main.a121c308.css.map",
+    "main.d7a11468.js.map": "/static/js/main.d7a11468.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a121c308.css",
+    "static/js/main.d7a11468.js"
+  ]
+}
